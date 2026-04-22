@@ -1,2 +1,7 @@
-# client-operations-dashboard
-Automated client reporting and operations dashboard using Google Sheets
+## Live Demo
+
+Master Dashboard:
+[View Dashboard](PASTE_MASTER_LINK)
+
+Sample Client File:
+[View Client Report](PASTE_CLIENT_LINK)
